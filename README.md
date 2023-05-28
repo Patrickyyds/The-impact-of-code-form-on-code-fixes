@@ -25,7 +25,7 @@ An Extension experiment on the CURE project.[CURE: Code-Aware Neural Machine Tra
 * Huggingface transformers 2.10.0
 * subword-nmt
 
-## my Additional content
+## My additional content
 **Python file that changes the form of code**
   * data/data/prepare_training_data.py
   * data/data/prepare_training_data_ast.py
